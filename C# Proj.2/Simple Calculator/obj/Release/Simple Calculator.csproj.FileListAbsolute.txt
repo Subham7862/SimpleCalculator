@@ -1,0 +1,11 @@
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\bin\Release\Simple Calculator.exe.config
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\bin\Release\Simple Calculator.exe
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\bin\Release\Simple Calculator.pdb
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\obj\Release\Simple Calculator.csproj.AssemblyReference.cache
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\obj\Release\Simple Calculator.csproj.SuggestedBindingRedirects.cache
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\obj\Release\Simple_Calculator.Form1.resources
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\obj\Release\Simple_Calculator.Properties.Resources.resources
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\obj\Release\Simple Calculator.csproj.GenerateResource.cache
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\obj\Release\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\obj\Release\Simple Calculator.exe
+D:\SUBHAM\CODES\C#\WINDOWS FORMS APPLICATION\C# Proj.2\Simple Calculator\obj\Release\Simple Calculator.pdb
